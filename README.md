@@ -38,3 +38,8 @@ php importDump.php < dumpfile.xml
 ```
 access /index.php/Special:AllPages
 may need restore /index.php/Main_Page 
+
+## install ghost blog
+```
+source ~/dev/box-init/install_ghost.sh
+```
